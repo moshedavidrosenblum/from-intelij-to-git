@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
         String user=scanner.nextLine();
         System.out.println(user);
-
+//       adding in terminal to git
     }
 
 }
