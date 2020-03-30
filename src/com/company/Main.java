@@ -10,6 +10,7 @@ public class Main {
         String user=scanner.nextLine();
         System.out.println(user);
 //       adding in terminal to git
+        // another test to see if i need pasword
     }
 
 }
